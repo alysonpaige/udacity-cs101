@@ -2,3 +2,5 @@
 
 name = 'Aly'
 print 'Hello ' + name
+print 'Hello ' + name + '!' + '!'
+# concat strings
